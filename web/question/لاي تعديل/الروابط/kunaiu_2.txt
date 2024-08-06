@@ -1,0 +1,37 @@
+# 6.js
+#الشعار السفلي
+# من سطر 287 الى سطر 318
+
+
+ (0,
+ n.jsx)("main", {
+ className: "jsx-c585a93b9e043274 " + (r().main || ""),
+ children: (0,
+ n.jsx)(x, {})
+ }), (0,
+ n.jsx)("footer", {
+ style: {
+ display: "flex",
+ justifyContent: "center",
+ alignItems: "center",
+ paddingBottom: "20px"
+ },
+ className: "jsx-c585a93b9e043274",
+ children: (0,
+ n.jsx)("a", {
+ href: "https://الرابط.com",
+ className: "jsx-c585a93b9e043274",
+ children: (0,
+ n.jsx)("img", {
+ src: "الصورة او رابطها",
+ alt: "Logo",
+ style: {
+ width: "30px"
+ },
+ className: "jsx-c585a93b9e043274 logo"
+ })
+ })
+ })]
+ })
+ }
+ },
